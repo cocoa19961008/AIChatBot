@@ -41,8 +41,26 @@ I am **Dipen Patel**, a code wizard weaving digital enchantments across the full
 ## ⚔️ **Heroic Quests**
 ![Adventure Banner](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
-### **StarOneCRM** - _MERN Stack Mastery_
+### **Portfolio** - _React Mastery_
 🏆 **Best Internship Project 2024**  
+🔗 [portfolio](https://dipen.alynor.wiki)
+
+
+### 🏰 **Portfolio Website** 
+**Azure Link**: [**Live Portal**](https://azure-portfolio.alynor.wiki)  
+**GitHub Video**:  
+
+https://github.com/user-attachments/assets/62ae9754-7b7e-4bd3-9943-1dc9323e78f3
+
+![Portfolio Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3bnVtNnQ0OWZ5YjJ4N2VpcmN1a2FqM3RwN2x5N3lud2s2Y2R6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SU2i7pQqGqy3rBEh6B/giphy.gif)
+
+- **Tech Stack**: React + Azure Static Web Apps
+- Neon cyberpunk theme with glass morphism effects
+- Parallax scrolling animations
+- Mobile-first responsive design
+- Continuous deployment pipeline
+
+### **StarOneCRM** - _MERN Stack Mastery_
 🔗 [Frontend Portal](https://polite-field-09918cc00.4.azurestaticapps.net) | [Admin Panel](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)  
 
 https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87
@@ -52,7 +70,7 @@ https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87
 - Processed payments through Stripe gateway 💳
 
 ### **District Integrated Dashboard** - _Government Tech Initiative_
-https://ambitious-bush-0645df200.5.azurestaticapps.net/
+🌐 [Live Dashboard](https://ambitious-bush-0645df200.5.azurestaticapps.net/)  
 
 https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
 
