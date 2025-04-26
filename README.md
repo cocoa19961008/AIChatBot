@@ -45,16 +45,16 @@ I am **Dipen Patel**, a code wizard weaving digital enchantments across the full
 🏆 **Best Internship Project 2024**  
 🔗 [Frontend Portal](https://polite-field-09918cc00.4.azurestaticapps.net) | [Admin Panel](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)  
 
-![CRM Demo](https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87)
+https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87
 
 - Built 3-layer authentication system 🔐
 - Integrated real-time chat with Socket.io 💬
 - Processed payments through Stripe gateway 💳
 
 ### **District Integrated Dashboard** - _Government Tech Initiative_
-🌐 [Live Dashboard](https://ambitious-bush-0645df200.5.azurestaticapps.net/)  
+https://ambitious-bush-0645df200.5.azurestaticapps.net/
 
-![Dashboard Demo](https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321)
+https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
 
 - Aggregated district-level data visualization 📊
 - Created dynamic reporting system 📈
@@ -63,7 +63,7 @@ I am **Dipen Patel**, a code wizard weaving digital enchantments across the full
 ### **Code-Canvas** - _Collaborative Development Platform (WIP)_
 🎨 [Prototype](Project-CodeCanvas-Login-Signup/Code-Canvas-Landing-Page.html)  
 
-![Code Canvas Demo](https://media.giphy.com/media/YS0oW8jOZ8XGzOvoM8/giphy.gif)
+https://media.giphy.com/media/YS0oW8jOZ8XGzOvoM8/giphy.gif
 
 - Live code collaboration environment 👥
 - Component distribution across 12+ languages 📦
