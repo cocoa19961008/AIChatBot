@@ -52,8 +52,6 @@ I am **Dipen Patel**, a code wizard weaving digital enchantments across the full
 
 https://github.com/user-attachments/assets/62ae9754-7b7e-4bd3-9943-1dc9323e78f3
 
-![Portfolio Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3bnVtNnQ0OWZ5YjJ4N2VpcmN1a2FqM3RwN2x5N3lud2s2Y2R6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SU2i7pQqGqy3rBEh6B/giphy.gif)
-
 - **Tech Stack**: React + Azure Static Web Apps
 - Neon cyberpunk theme with glass morphism effects
 - Parallax scrolling animations
