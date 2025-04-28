@@ -9,7 +9,7 @@
 
 ## 🏰 **Citadel of the Digital Mage**
 
-<div align="center" style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
   <div style="flex: 1;">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Magic Code">
   </div>
@@ -26,24 +26,19 @@
 
 ## 🧙‍♂️ **Arcane Arsenal** ✨
 
-<div style="display: flex; gap: 20px; margin: 20px 0;">
-  <div style="flex: 3;">
-    <div align="center">
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Skills GIF">
-      <h3>Languages & Spells</h3>
-      <p>Python • JavaScript • C++ • SQL • HTML/CSS</p>
-      
-      <h3>Frontend Wizardry</h3>
-      <p>React • Bootstrap • Figma • Chart.js</p>
-      
-      <h3>Backend Conjuring</h3>
-      <p>Node.js • Express • Django • REST APIs</p>
-      
-      <h3>Database Alchemy</h3>
-      <p>MySQL • MongoDB • PostgreSQL</p>
+<div style="display: flex; gap: 20px; margin: 20px 0; align-items: center;">
+  <div style="flex: 2;">
+    <h3>🛠️ Tech Stack</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
     </div>
   </div>
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Tech Stack">
   </div>
 </div>
@@ -53,6 +48,9 @@
 ## ⚔️ **Epic Quests** (Professional Experience)
 
 <div style="display: flex; gap: 20px; margin: 20px 0; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/3ohzdUi5U3g7ceBl8Q/giphy.gif" width="300" alt="Teamwork">
+  </div>
   <div style="flex: 2;">
     <h3>🧑💻 Gauraj InfoTech (Dec 2024-Present)</h3>
     <ul>
@@ -61,7 +59,11 @@
       <li>Integrated Stripe payment gateways</li>
       <li>Crafted 40+ backend spells & 50+ API incantations</li>
     </ul>
-    
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; margin: 20px 0; align-items: center;">
+  <div style="flex: 2;">
     <h3>👾 ByteXL (May-July 2024)</h3>
     <ul>
       <li>Led 6-member fellowship on Code Canvas project</li>
@@ -70,7 +72,7 @@
     </ul>
   </div>
   <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/3ohzdUi5U3g7ceBl8Q/giphy.gif" width="300" alt="Teamwork">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding">
   </div>
 </div>
 
@@ -78,21 +80,21 @@
 
 ## 🏆 **Legendary Artifacts** (Projects)
 
-### Star One CRM
 <div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
   <div style="flex: 1;">
     <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" alt="CRM">
   </div>
   <div style="flex: 2;">
+    <h3>Star One CRM</h3>
     <p>Three-layer authentication • 200+ deployments<br>
     <b>Frontend:</b> <a href="https://polite-field-09918cc00.4.azurestaticapps.net">Live Demo</a><br>
     <b>Backend:</b> <a href="http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net">Admin Portal</a></p>
   </div>
 </div>
 
-### District Integrated Dashboard
 <div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
   <div style="flex: 2;">
+    <h3>District Integrated Dashboard</h3>
     <p>Government data visualization • 13,850+ logs handled<br>
     <b>Frontend:</b> <a href="https://ambitious-bush-0645df200.5.azurestaticapps.net/">Live Dashboard</a><br>
     <b>Tech:</b> Django • Chart.js • Azure</p>
@@ -102,41 +104,31 @@
   </div>
 </div>
 
-### Code Canvas (WIP)
-<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding">
-  </div>
-  <div style="flex: 2;">
-    <p>Collaborative coding platform • 12+ languages<br>
-    <b>Prototype:</b> <a href="Project-CodeCanvas-Login-Signup/Code-Canvas-Landing-Page.html">Live Preview</a><br>
-    <b>Repo:</b> <a href="https://github.com/DOodle25/Code-Canvas">GitHub</a></p>
-  </div>
-</div>
-
 ---
 
 ## 📜 **Ancient Scrolls** (Certifications)
-<div style="display: flex; gap: 20px; align-items: center;">
+
+<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300" alt="Certifications">
+  </div>
   <div style="flex: 2;">
     <ul>
-      <li>NPTEL Software Engineering (Elite)</li>
-      <li>NPTEL Data Analytics (Silver + Elite)</li>
-      <li>CISCO Cybersecurity Initiate</li>
-      <li>Harvard CS50 & CS50 Web Veteran</li>
+      <li>🏅 NPTEL Software Engineering (Elite)</li>
+      <li>🥈 NPTEL Data Analytics (Silver + Elite)</li>
+      <li>🛡️ CISCO Cybersecurity Initiate</li>
+      <li>🎓 Harvard CS50 & CS50 Web Veteran</li>
     </ul>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="200" alt="Certifications">
   </div>
 </div>
 
 ---
 
 ## 📧 **Summoning Circle**
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
+
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/DOodle25">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/dipen-patel-792296260/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -145,26 +137,26 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
   <a href="mailto:pdipen135@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 40px 0;">
   <img src="https://media.giphy.com/media/3o7aD2X9HxhzNfEEyI/giphy.gif" width="300" alt="Magic">
 </div>
 
 ---
 
 ## 📊 **Battle Statistics**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat)
 
-<div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOodle25">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOodle25">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DOodle25">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DOodle25">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOodle25">
+  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOodle25">
+  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DOodle25">
 </div>
 
-<p align="center"> 
-  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i> - Arthur C. Clarke
+<p align="center" style="margin-top: 20px;">
+  <i>"It's not a bug - it's an undocumented feature!" 😅</i>
 </p>
