@@ -148,7 +148,7 @@ https://media.giphy.com/media/YS0oW8jOZ8XGzOvoM8/giphy.gif
 ---
 
 ## 🏰 **Citadel of the Digital Mage**
-<table>
+<table style="width: 100%;">
   <tr>
     <td width="70%">
       <strong>Full-Stack Developer & Technical Innovator</strong> 🔮<br>
