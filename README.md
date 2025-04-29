@@ -1,3 +1,166 @@
+### 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀
+[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft)
+
+Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorcerer based in India. I weave spells of logic, summon designs from the ether, and forge digital experiences with the power of code. Dive in to explore my quests, skills, and triumphs in the vast realms of Development and AI/ML.
+
+---
+
+## 🧙 About Me
+- 🌎 Located in Vadodara, India  
+- 🎓 B.Tech in Computer Science, Parul University (2021–2025)  
+- ⚔️ Passionate about full-stack development, AI/ML, and crafting elegant user experiences  
+- 📫 Reach me at: **pdipen135@gmail.com** | +91 94273 01003  
+
+---
+
+## ✨ Skills & Specializations
+
+<div align="center">
+  <!-- Tech Stack Icons -->
+  <a href="https://www.python.org"        target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"        alt="Python"    width="50" /></a>
+  <a href="https://developer.mozilla.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                  alt="C"         width="50" /></a>
+  <a href="https://www.w3.org/html/"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"   alt="HTML5"     width="50" /></a>
+  <a href="https://www.w3schools.com/cpp/"  target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"        alt="C++"       width="50" /></a>
+  <a href="https://reactjs.org/"           target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"         alt="React"     width="50" /></a>
+  <a href="https://www.w3.org/Style/CSS/"   target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"         alt="CSS3"      width="50" /></a>
+  <a href="https://getbootstrap.com/"      target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"     alt="Bootstrap" width="50" /></a>
+  <a href="https://sass-lang.com/"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"                  alt="Sass"      width="50" /></a>
+  <a href="https://expressjs.com/"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"         alt="Express"   width="50" /></a>
+  <a href="https://nodejs.org/"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"         alt="Node.js"   width="50" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg"                                              alt="Django"    width="50" /></a>
+  <a href="https://www.mongodb.com/"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"       alt="MongoDB"   width="50" /></a>
+  <a href="https://www.mysql.com/"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"           alt="MySQL"     width="50" /></a>
+  <a href="https://git-scm.com/"           target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"                                          alt="Git"       width="50" /></a>
+  <a href="https://www.figma.com/"         target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"                                                alt="Figma"     width="50" /></a>
+  <a href="https://aws.amazon.com/"        target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"   width="50" /></a>
+  <a href="https://azure.microsoft.com/"   target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"                                 alt="Azure"     width="50" /></a>
+  <a href="https://www.nginx.com/"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"                                  alt="NGINX"     width="50" /></a>
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### Gauraj InfoTech — Software Developer Intern  
+*Vadodara, Gujarat | Dec 2024 – Present*  
+- Developed **StarOneCRM**, a full-featured CRM with admin/customer/employee roles, three-layer authentication, Google/Facebook OAuth, and real-time communication via Socket.io.  
+- Built robust middleware for role-based access control across 40+ backend endpoints and 50+ frontend calls.  
+- Integrated **Stripe payments**, delivering interactive data grids with advanced filtering, sorting, and pagination for 4000+ records.
+
+### ByteXL — Software Developer Intern  
+*Vadodara, Gujarat | May 2024 – July 2024*  
+- Contributed to **Code-Canvas 2**, collaborating with a 6-member team on full-stack features, database design, and Azure deployments.  
+- Enhanced system reliability and performance through rigorous testing on 7+ live projects in Linux environments.  
+- Integrated basic AI-driven modules, improving user workflows and application intelligence.
+
+---
+
+## 🎓 Education
+
+**Parul University** — B.Tech in Computer Science  
+*July 2021 – May 2025*  
+- **GPA:** 3.46/4.0  
+- **Key Coursework:** Data Structures & Algorithms, OOP with C++, Operating Systems, Azure Fundamentals, Discrete Mathematics, Professional Ethics.
+
+---
+
+## 🛠️ Featured Projects & Videos
+
+### Portfolio Website  
+Your gateway to my professional saga—explore my works, skills, and achievements.  
+🔗 [View Live Site](https://dipen.alynor.wiki/)  
+📽️ Project video:  
+https://github.com/user-attachments/assets/62ae9754-7b7e-4bd3-9943-1dc9323e78f3
+
+### StarOneCRM  
+A MERN-stack CRM with real-time chat, multi-role auth, and payment workflows.  
+- **Frontend**: [Live](https://polite-field-09918cc00.4.azurestaticapps.net)  
+- **Backend/Admin**: [Admin Panel](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)  
+📽️ Project video:  
+https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87
+
+### District Integrated Dashboard  
+Government insights at your fingertips—interactive charts, district maps, and admin controls.  
+- **Frontend**: [Live](https://ambitious-bush-0645df200.5.azurestaticapps.net/)  
+- **Backend/Admin**: [Admin Login](https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/)  
+📽️ Project video:  
+https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
+
+### syncUP  
+A collaborative chat platform with OTP-based auth, channel management, and message threading.  
+- **Source**: [GitHub – SyncUP](https://github.com/DOodle25/SyncUP)  
+📽️ Project video:  
+https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
+
+### Code-Canvas *(In Progress)*  
+Live-coding studio with real-time collaboration in 12+ languages.  
+- **Prototype & Server**: [GitHub – Code-Canvas](https://github.com/DOodle25/Code-Canvas)  
+
+---
+
+## 🔬 Research & Publications
+
+- **Integrating Geographic-Population Insights with RFM Models**  
+  *Dipen P. Patel & Dr. Vinod Patidar* | Jan 2025 (under review)
+
+- **District Integrated Dashboard: A Project Report**  
+  *Dipen P. Patel, Heet Nandaniya, Dhruvesh Bawane, Sunny W. Thakare* | Jan 2023  
+  DOI: 10.13140/RG.2.2.18738.21448/1
+
+---
+
+## 🏅 Certifications
+
+- **NPTEL: Software Engineering (Elite)** | Jul 2023 – Oct 2023  
+- **NPTEL: Data Analytics with Python (Silver + Elite)** | Jan 2024 – Apr 2024  
+- **Cisco: Introduction to Cybersecurity** | Feb 2024
+
+---
+
+## 🎯 Academic Activities & Achievements
+
+- Qualified **GATE CS** (AIR 8129)  
+- Solved **150+ LeetCode** problems  
+- Finalist: **OdooCombat 2024**; Participant: **MLH Hackathons**  
+- Completed **Harvard CS50 & CS50 Web**  
+- Passionate sketch artist 🖋️ with 10+ years of experience and multiple competition wins
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/DOodle25"   target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"           alt="GitHub"    height="30" /></a>
+  <a href="https://www.linkedin.com/in/dipen-patel-792296260/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="LinkedIn"  height="30" /></a>
+  <a href="https://leetcode.com/DIPEN125/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"                   alt="LeetCode"  height="30" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOodle25" />
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOodle25" />
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DOodle25" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DOodle25&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25" />
+</div>
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+
 # 🐉 Dipen Patel - Master of the Codecraft 🚀 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dipen-patel-792296260/)
