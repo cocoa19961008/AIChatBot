@@ -9,15 +9,15 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 
 ## 🧙 About Me
 </summary>
-  
+
 - 🌎 Located in Vadodara, India  
 - 🎓 B.Tech in Computer Science, Parul University (2021–2025)  
 - ⚔️ Passionate about full-stack development, AI/ML, and crafting elegant user experiences  
 - 📫 Reach me at: **pdipen135@gmail.com** | +91 94273 01003
- 
 </details>
 
 ---
+
 <details open>
 <summary>
   
