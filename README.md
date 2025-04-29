@@ -15,6 +15,7 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 - 📫 Reach me at: **pdipen135@gmail.com** | +91 94273 01003
  
 </details>
+
 ---
 
 ## ✨ Skills & Specializations
