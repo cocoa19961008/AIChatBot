@@ -278,3 +278,168 @@ https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
+
+
+
+
+---
+
+
+---
+
+---
+
+
+<!-- HTML STRUCTURE FOR PORTFOLIO WITH GIFS AND COLLAPSIBLES -->
+
+<h1>🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀</h1>
+<p>
+  <a href="https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive" alt="Download Resume">
+  </a>
+</p>
+
+<hr />
+
+<!-- Funny Developer GIFs -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="funny dev gif 1" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="funny dev gif 2" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="funny dev gif 3" />
+</div>
+
+---
+
+## 🛠️ Featured Projects & Videos
+
+<details open>
+  <summary><strong>✨ Portfolio Website</strong></summary>
+  <p>Your gateway to my professional saga—explore my works, skills, and achievements.</p>
+  🔗 <a href="https://dipen.alynor.wiki/">View Live Site</a><br />
+  📽️ Project video: https://github.com/user-attachments/assets/62ae9754-7b7e-4bd3-9943-1dc9323e78f3
+</details>
+
+<details>
+  <summary><strong>💬 StarOneCRM</strong></summary>
+  <p>A MERN-stack CRM with real-time chat, multi-role auth, and payment workflows.</p>
+  🔗 <a href="https://polite-field-09918cc00.4.azurestaticapps.net">Frontend</a> |
+  <a href="http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net">Admin Panel</a><br />
+  📽️ Project video: https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87
+</details>
+
+<details>
+  <summary><strong>📊 District Integrated Dashboard</strong></summary>
+  <p>Government insights at your fingertips—interactive charts, district maps, and admin controls.</p>
+  🔗 <a href="https://ambitious-bush-0645df200.5.azurestaticapps.net/">Frontend</a> |
+  <a href="https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/">Admin Login</a><br />
+  📽️ Project video: https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
+</details>
+
+<details>
+  <summary><strong>🧑‍💻 syncUP</strong></summary>
+  <p>A collaborative chat platform with OTP-based auth, channel management, and message threading.</p>
+  🔗 <a href="https://github.com/DOodle25/SyncUP">GitHub – SyncUP</a><br />
+  📽️ Project video: https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
+</details>
+
+<details>
+  <summary><strong>🎨 Code-Canvas *(In Progress)*</strong></summary>
+  <p>Live-coding studio with real-time collaboration in 12+ languages.</p>
+  🔗 <a href="https://github.com/DOodle25/Code-Canvas">GitHub – Code-Canvas</a>
+</details>
+
+---
+
+<details>
+  <summary><strong>🧙 About Me</strong></summary>
+  <ul>
+    <li>🌎 Located in Vadodara, India</li>
+    <li>🎓 B.Tech in Computer Science, Parul University (2021–2025)</li>
+    <li>⚔️ Passionate about full-stack development, AI/ML, and elegant user experiences</li>
+    <li>📫 Reach me at: <strong>pdipen135@gmail.com</strong> | +91 94273 01003</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary><strong>💼 Professional Experience</strong></summary>
+
+  <h4>Gauraj InfoTech — Software Developer Intern</h4>
+  <ul>
+    <li>Built StarOneCRM with real-time chat, OAuth, and advanced admin tools</li>
+    <li>Integrated Stripe, implemented RBAC middleware</li>
+  </ul>
+
+  <h4>ByteXL — Software Developer Intern</h4>
+  <ul>
+    <li>Worked on Code-Canvas 2, improved performance and Azure deployment pipelines</li>
+    <li>Tested 7+ live projects in Linux environments</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary><strong>🎓 Education</strong></summary>
+  <p><strong>Parul University</strong> — B.Tech in Computer Science</p>
+  <ul>
+    <li><strong>GPA:</strong> 3.46/4.0</li>
+    <li><strong>Key Coursework:</strong> DSA, OOP with C++, OS, Azure, Ethics</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary><strong>✨ Skills & Specializations</strong></summary>
+  <div align="center">
+    <!-- Same tech icon block as before -->
+    <!-- (Consider adding hover effect or tooltips here for interactivity) -->
+  </div>
+</details>
+
+---
+
+<details>
+  <summary><strong>🔬 Research & Publications</strong></summary>
+  <ul>
+    <li>Integrating Geographic-Population Insights with RFM Models (under review)</li>
+    <li>District Integrated Dashboard Report – DOI: 10.13140/RG.2.2.18738.21448/1</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary><strong>🏅 Certifications</strong></summary>
+  <ul>
+    <li>NPTEL: Software Engineering (Elite)</li>
+    <li>NPTEL: Data Analytics with Python (Silver + Elite)</li>
+    <li>Cisco: Introduction to Cybersecurity</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary><strong>🎯 Academic Activities & Achievements</strong></summary>
+  <ul>
+    <li>GATE CS Qualified (AIR 8129)</li>
+    <li>150+ LeetCode problems solved</li>
+    <li>Finalist: OdooCombat 2024, MLH Hackathon participant</li>
+    <li>Completed Harvard CS50 & CS50 Web</li>
+    <li>Passionate sketch artist 🎨</li>
+  </ul>
+</details>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/DOodle25" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" />
+  </a>
+  <!-- Add more social icons if needed -->
+</p>
