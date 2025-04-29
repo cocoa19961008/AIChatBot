@@ -6,7 +6,7 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 ---
 <details open>
 <summary>
-  ## 🧙 About Me
+🧙 About Me
 </summary>
   
 - 🌎 Located in Vadodara, India  
