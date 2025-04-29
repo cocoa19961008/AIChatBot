@@ -8,7 +8,6 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 <summary>
 
 ## 🧙 About Me
-
 </summary>
   
 - 🌎 Located in Vadodara, India  
