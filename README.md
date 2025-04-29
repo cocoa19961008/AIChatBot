@@ -3,11 +3,11 @@
 
 Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorcerer based in India. I weave spells of logic, summon designs from the ether, and forge digital experiences with the power of code. Dive in to explore my quests, skills, and triumphs in the vast realms of Development and AI/ML.
 
----
 <details open>
 <summary>
 
 ## 🧙 About Me
+---
 </summary>
 
 - 🌎 Located in Vadodara, India  
@@ -16,11 +16,11 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 - 📫 Reach me at: **pdipen135@gmail.com** | +91 94273 01003
 </details>
 
----
 <details open>
 <summary>
   
 ## ✨ Skills & Specializations
+---
 </summary>
 <div align="center">
   <!-- Tech Stack Icons -->
@@ -84,11 +84,12 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 </div>
 
 </details>
----
+
 <details open>
 <summary>
 
 ## 🛠️ Featured Projects & Videos
+---
 </summary>
 
 ### Portfolio Website  
@@ -126,11 +127,11 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - **Prototype & Server**: [GitHub – Code-Canvas](https://github.com/DOodle25/Code-Canvas)  
 </details>
 
----
 <details>
 <summary>
 
 ## 💼 Professional Experience
+---
 </summary>
 
 ### Gauraj InfoTech — Software Developer Intern  
@@ -145,11 +146,12 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - Enhanced system reliability and performance through rigorous testing on 7+ live projects in Linux environments.  
 - Integrated basic AI-driven modules, improving user workflows and application intelligence.
 </details>
----
+
 <details open>
 <summary>
 
 ## 🎓 Education
+---
 </summary>
 
 **Parul University** — B.Tech in Computer Science  
@@ -157,14 +159,12 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - **GPA:** 3.46/4.0  
 - **Key Coursework:** Data Structures & Algorithms, OOP with C++, Operating Systems, Azure Fundamentals, Discrete Mathematics, Professional Ethics.
 </details>
----
-<details>
-<summary>
----
+
 <details>
 <summary>
 
 ## 🔬 Research & Publications
+---
 </summary>
 
 - **Integrating Geographic-Population Insights with RFM Models**  
@@ -174,22 +174,24 @@ Live-coding studio with real-time collaboration in 12+ languages.
   *Dipen P. Patel, Heet Nandaniya, Dhruvesh Bawane, Sunny W. Thakare* | Jan 2023  
   DOI: 10.13140/RG.2.2.18738.21448/1
 </details>
----
+
 <details>
 <summary>
 
 ## 🏅 Certifications
+---
 </summary>
 
 - **NPTEL: Software Engineering (Elite)** | Jul 2023 – Oct 2023  
 - **NPTEL: Data Analytics with Python (Silver + Elite)** | Jan 2024 – Apr 2024  
 - **Cisco: Introduction to Cybersecurity** | Feb 2024
 </details>
----
+
 <details open>
 <summary>
 
 ## 🎯 Academic Activities & Achievements
+---
 </summary>
 
 - Qualified **GATE CS** (AIR 8129)  
@@ -199,8 +201,8 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - Passionate sketch artist 🖋️ with 10+ years of experience and multiple competition wins
 </details>
 
----
 ## 📫 Connect with Me
+---
 <p align="center">
   <a href="https://github.com/DOodle25"   target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"           alt="GitHub"    height="30" /></a>
   <a href="https://www.linkedin.com/in/dipen-patel-792296260/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="LinkedIn"  height="30" /></a>
@@ -208,7 +210,6 @@ Live-coding studio with real-time collaboration in 12+ languages.
 </p>
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
