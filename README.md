@@ -1,13 +1,13 @@
-## 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀
+### 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀
 [![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=1rkJkdaL9EOihEYZcD3nJ7jdjS28qOUPa)
 
 Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorcerer based in India. I weave spells of logic, summon designs from the ether, and forge digital experiences with the power of code. Dive in to explore my quests, skills, and triumphs in the vast realms of Development and AI/ML.
 
----
 <details open>
 <summary>
 
 ## 🧙 About Me
+---
 </summary>
 
 - 🌎 Located in Vadodara, India  
@@ -21,7 +21,7 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 <summary>
   
 ## ✨ Skills & Specializations
-
+---
 </summary>
 <div align="center">
   <!-- Tech Stack Icons -->
@@ -90,6 +90,7 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 <summary>
 
 ## 🛠️ Featured Projects & Videos
+---
 </summary>
 
 ### Portfolio Website  
@@ -132,6 +133,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 💼 Professional Experience
+---
 </summary>
 
 ### Gauraj InfoTech — Software Developer Intern  
@@ -151,6 +153,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 🎓 Education
+---
 </summary>
 
 **Parul University** — B.Tech in Computer Science  
@@ -166,6 +169,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 🔬 Research & Publications
+---
 </summary>
 
 - **Integrating Geographic-Population Insights with RFM Models**  
@@ -180,6 +184,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 🏅 Certifications
+---
 </summary>
 
 - **NPTEL: Software Engineering (Elite)** | Jul 2023 – Oct 2023  
@@ -191,6 +196,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 🎯 Academic Activities & Achievements
+---
 </summary>
 
 - Qualified **GATE CS** (AIR 8129)  
@@ -201,7 +207,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 </details>
 
 ## 📫 Connect with Me
-
+---
 <p align="center">
   <a href="https://github.com/DOodle25"   target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"           alt="GitHub"    height="30" /></a>
   <a href="https://www.linkedin.com/in/dipen-patel-792296260/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="LinkedIn"  height="30" /></a>
