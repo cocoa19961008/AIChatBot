@@ -5,7 +5,7 @@
 
 Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorcerer based in India. I weave spells of logic, summon designs from the ether, and forge digital experiences with the power of code. Dive in to explore my quests, skills, and triumphs in the vast realms of Development and AI/ML.
 
-<details>
+<details open>
 <summary>
 
 ## 🧙 About Me
@@ -87,38 +87,6 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 
 </details>
 
-<details>
-<summary>
-
-## 💼 Professional Experience
-</summary>
-
-### Gauraj InfoTech — Software Developer Intern  
-*Vadodara, Gujarat | Dec 2024 – Present*  
-- Developed **StarOneCRM**, a full-featured CRM with admin/customer/employee roles, three-layer authentication, Google/Facebook OAuth, and real-time communication via Socket.io.  
-- Built robust middleware for role-based access control across 40+ backend endpoints and 50+ frontend calls.  
-- Integrated **Stripe payments**, delivering interactive data grids with advanced filtering, sorting, and pagination for 4000+ records.
-
-### ByteXL — Software Developer Intern  
-*Vadodara, Gujarat | May 2024 – July 2024*  
-- Contributed to **Code-Canvas 2**, collaborating with a 6-member team on full-stack features, database design, and Azure deployments.  
-- Enhanced system reliability and performance through rigorous testing on 7+ live projects in Linux environments.  
-- Integrated basic AI-driven modules, improving user workflows and application intelligence.
-</details>
-
-<details>
-<summary>
-
-## 🎓 Education
-</summary>
-**Parul University** — B.Tech in Computer Science  
-*July 2021 – May 2025*  
-- **GPA:** 3.46/4.0  
-- **Key Coursework:** Data Structures & Algorithms, OOP with C++, Operating Systems, Azure Fundamentals, Discrete Mathematics, Professional Ethics.
-</details>
-
-<details>
-<summary>
 
 ## 🛠️ Featured Projects & Videos
 </summary>
@@ -157,6 +125,40 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - **Prototype & Server**: [GitHub – Code-Canvas](https://github.com/DOodle25/Code-Canvas)  
 </details>
 
+
+<details>
+<summary>
+
+## 💼 Professional Experience
+</summary>
+
+### Gauraj InfoTech — Software Developer Intern  
+*Vadodara, Gujarat | Dec 2024 – Present*  
+- Developed **StarOneCRM**, a full-featured CRM with admin/customer/employee roles, three-layer authentication, Google/Facebook OAuth, and real-time communication via Socket.io.  
+- Built robust middleware for role-based access control across 40+ backend endpoints and 50+ frontend calls.  
+- Integrated **Stripe payments**, delivering interactive data grids with advanced filtering, sorting, and pagination for 4000+ records.
+
+### ByteXL — Software Developer Intern  
+*Vadodara, Gujarat | May 2024 – July 2024*  
+- Contributed to **Code-Canvas 2**, collaborating with a 6-member team on full-stack features, database design, and Azure deployments.  
+- Enhanced system reliability and performance through rigorous testing on 7+ live projects in Linux environments.  
+- Integrated basic AI-driven modules, improving user workflows and application intelligence.
+</details>
+
+<details open>
+<summary>
+
+## 🎓 Education
+</summary>
+**Parul University** — B.Tech in Computer Science  
+*July 2021 – May 2025*  
+- **GPA:** 3.46/4.0  
+- **Key Coursework:** Data Structures & Algorithms, OOP with C++, Operating Systems, Azure Fundamentals, Discrete Mathematics, Professional Ethics.
+</details>
+
+<details>
+<summary>
+
 <details>
 <summary>
 
@@ -181,7 +183,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - **Cisco: Introduction to Cybersecurity** | Feb 2024
 </details>
 
-<details>
+<details open>
 <summary>
 
 ## 🎯 Academic Activities & Achievements
