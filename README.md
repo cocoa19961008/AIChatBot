@@ -2,7 +2,7 @@
 [![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=1rkJkdaL9EOihEYZcD3nJ7jdjS28qOUPa)
 
 Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorcerer based in India. I weave spells of logic, summon designs from the ether, and forge digital experiences with the power of code. Dive in to explore my quests, skills, and triumphs in the vast realms of Development and AI/ML.
-
+---
 <details open>
 <summary>
 
@@ -15,7 +15,7 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 - 📫 Reach me at: **pdipen135@gmail.com** | +91 94273 01003
 </details>
 
-
+---
 <details open>
 <summary>
   
