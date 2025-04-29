@@ -3,11 +3,10 @@
 
 Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorcerer based in India. I weave spells of logic, summon designs from the ether, and forge digital experiences with the power of code. Dive in to explore my quests, skills, and triumphs in the vast realms of Development and AI/ML.
 
-<details open>
+<details>
 <summary>
 
 ## 🧙 About Me
----
 </summary>
 
 - 🌎 Located in Vadodara, India  
@@ -16,11 +15,10 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 - 📫 Reach me at: **pdipen135@gmail.com** | +91 94273 01003
 </details>
 
-<details open>
+<details>
 <summary>
   
 ## ✨ Skills & Specializations
----
 </summary>
 <div align="center">
   <!-- Tech Stack Icons -->
@@ -85,11 +83,10 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 
 </details>
 
-<details open>
+<details>
 <summary>
 
 ## 🛠️ Featured Projects & Videos
----
 </summary>
 
 ### Portfolio Website  
@@ -131,7 +128,6 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 💼 Professional Experience
----
 </summary>
 
 ### Gauraj InfoTech — Software Developer Intern  
@@ -147,11 +143,10 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - Integrated basic AI-driven modules, improving user workflows and application intelligence.
 </details>
 
-<details open>
+<details>
 <summary>
 
 ## 🎓 Education
----
 </summary>
 
 **Parul University** — B.Tech in Computer Science  
@@ -164,7 +159,6 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 🔬 Research & Publications
----
 </summary>
 
 - **Integrating Geographic-Population Insights with RFM Models**  
@@ -179,7 +173,6 @@ Live-coding studio with real-time collaboration in 12+ languages.
 <summary>
 
 ## 🏅 Certifications
----
 </summary>
 
 - **NPTEL: Software Engineering (Elite)** | Jul 2023 – Oct 2023  
@@ -187,11 +180,10 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - **Cisco: Introduction to Cybersecurity** | Feb 2024
 </details>
 
-<details open>
+<details>
 <summary>
 
 ## 🎯 Academic Activities & Achievements
----
 </summary>
 
 - Qualified **GATE CS** (AIR 8129)  
