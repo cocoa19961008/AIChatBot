@@ -84,7 +84,7 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 
 </details>
 
-<details>
+<details open>
 <summary>
 
 ## 🛠️ Featured Projects & Videos
