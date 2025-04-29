@@ -1,10 +1,11 @@
-### 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀
+
+
+## 🐉 Welcome to the Realm of Dipen Patel, Master of the Codecraft! 🚀
 [![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=1rkJkdaL9EOihEYZcD3nJ7jdjS28qOUPa)
 
 Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorcerer based in India. I weave spells of logic, summon designs from the ether, and forge digital experiences with the power of code. Dive in to explore my quests, skills, and triumphs in the vast realms of Development and AI/ML.
 
----
-<details open>
+<details>
 <summary>
 
 ## 🧙 About Me
@@ -16,7 +17,6 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 - 📫 Reach me at: **pdipen135@gmail.com** | +91 94273 01003
 </details>
 
----
 
 <details open>
 <summary>
@@ -83,14 +83,15 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="70" />
   </a>
 </div>
-
 </div>
 
 </details>
 
----
+<details>
+<summary>
 
 ## 💼 Professional Experience
+</summary>
 
 ### Gauraj InfoTech — Software Developer Intern  
 *Vadodara, Gujarat | Dec 2024 – Present*  
@@ -103,20 +104,24 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 - Contributed to **Code-Canvas 2**, collaborating with a 6-member team on full-stack features, database design, and Azure deployments.  
 - Enhanced system reliability and performance through rigorous testing on 7+ live projects in Linux environments.  
 - Integrated basic AI-driven modules, improving user workflows and application intelligence.
+</details>
 
----
+<details>
+<summary>
 
 ## 🎓 Education
-
+</summary>
 **Parul University** — B.Tech in Computer Science  
 *July 2021 – May 2025*  
 - **GPA:** 3.46/4.0  
 - **Key Coursework:** Data Structures & Algorithms, OOP with C++, Operating Systems, Azure Fundamentals, Discrete Mathematics, Professional Ethics.
+</details>
 
----
+<details>
+<summary>
 
 ## 🛠️ Featured Projects & Videos
-
+</summary>
 ### Portfolio Website  
 Your gateway to my professional saga—explore my works, skills, and achievements.  
 🔗 [View Live Site](https://dipen.alynor.wiki/)  
@@ -150,10 +155,13 @@ https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
 ### Code-Canvas *(In Progress)*  
 Live-coding studio with real-time collaboration in 12+ languages.  
 - **Prototype & Server**: [GitHub – Code-Canvas](https://github.com/DOodle25/Code-Canvas)  
+</details>
 
----
+<details>
+<summary>
 
 ## 🔬 Research & Publications
+</summary>
 
 - **Integrating Geographic-Population Insights with RFM Models**  
   *Dipen P. Patel & Dr. Vinod Patidar* | Jan 2025 (under review)
@@ -161,26 +169,29 @@ Live-coding studio with real-time collaboration in 12+ languages.
 - **District Integrated Dashboard: A Project Report**  
   *Dipen P. Patel, Heet Nandaniya, Dhruvesh Bawane, Sunny W. Thakare* | Jan 2023  
   DOI: 10.13140/RG.2.2.18738.21448/1
+</details>
 
----
+<details>
+<summary>
 
 ## 🏅 Certifications
-
+</summary>
 - **NPTEL: Software Engineering (Elite)** | Jul 2023 – Oct 2023  
 - **NPTEL: Data Analytics with Python (Silver + Elite)** | Jan 2024 – Apr 2024  
 - **Cisco: Introduction to Cybersecurity** | Feb 2024
+</details>
 
----
+<details>
+<summary>
 
 ## 🎯 Academic Activities & Achievements
-
+</summary>
 - Qualified **GATE CS** (AIR 8129)  
 - Solved **150+ LeetCode** problems  
 - Finalist: **OdooCombat 2024**; Participant: **MLH Hackathons**  
 - Completed **Harvard CS50 & CS50 Web**  
 - Passionate sketch artist 🖋️ with 10+ years of experience and multiple competition wins
-
----
+</details>
 
 ## 📫 Connect with Me
 
@@ -189,6 +200,8 @@ Live-coding studio with real-time collaboration in 12+ languages.
   <a href="https://www.linkedin.com/in/dipen-patel-792296260/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="LinkedIn"  height="30" /></a>
   <a href="https://leetcode.com/DIPEN125/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"                   alt="LeetCode"  height="30" /></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
