@@ -90,6 +90,7 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 
 ## 🛠️ Featured Projects & Videos
 </summary>
+
 ### Portfolio Website  
 Your gateway to my professional saga—explore my works, skills, and achievements.  
 🔗 [View Live Site](https://dipen.alynor.wiki/)  
@@ -150,6 +151,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 
 ## 🎓 Education
 </summary>
+
 **Parul University** — B.Tech in Computer Science  
 *July 2021 – May 2025*  
 - **GPA:** 3.46/4.0  
@@ -178,6 +180,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 
 ## 🏅 Certifications
 </summary>
+
 - **NPTEL: Software Engineering (Elite)** | Jul 2023 – Oct 2023  
 - **NPTEL: Data Analytics with Python (Silver + Elite)** | Jan 2024 – Apr 2024  
 - **Cisco: Introduction to Cybersecurity** | Feb 2024
@@ -188,6 +191,7 @@ Live-coding studio with real-time collaboration in 12+ languages.
 
 ## 🎯 Academic Activities & Achievements
 </summary>
+
 - Qualified **GATE CS** (AIR 8129)  
 - Solved **150+ LeetCode** problems  
 - Finalist: **OdooCombat 2024**; Participant: **MLH Hackathons**  
