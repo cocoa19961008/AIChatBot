@@ -71,13 +71,15 @@ Greetings, traveler! I’m **Dipen Patel**, a full-stack developer and data sorc
 Your gateway to my professional saga—explore my works, skills, and achievements.  
 🔗 [View Live Site](https://dipen.alynor.wiki/)  
 📽️ Project video:  
+
 https://github.com/user-attachments/assets/62ae9754-7b7e-4bd3-9943-1dc9323e78f3
 
 ### StarOneCRM  
 A MERN-stack CRM with real-time chat, multi-role auth, and payment workflows.  
 - **Frontend**: [Live](https://polite-field-09918cc00.4.azurestaticapps.net)  
 - **Backend/Admin**: [Admin Panel](http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net)  
-📽️ Project video:  
+📽️ Project video:
+
 https://github.com/user-attachments/assets/3134d68e-4cd8-48a6-a0bb-26fd14550e87
 
 ### District Integrated Dashboard  
@@ -85,12 +87,14 @@ Government insights at your fingertips—interactive charts, district maps, and 
 - **Frontend**: [Live](https://ambitious-bush-0645df200.5.azurestaticapps.net/)  
 - **Backend/Admin**: [Admin Login](https://district-integrated-dashboard-backend-cudqcnbehzgye3c9.centralindia-01.azurewebsites.net/admin/login/?next=/admin/)  
 📽️ Project video:  
+
 https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
 
 ### syncUP  
 A collaborative chat platform with OTP-based auth, channel management, and message threading.  
 - **Source**: [GitHub – SyncUP](https://github.com/DOodle25/SyncUP)  
 📽️ Project video:  
+
 https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
 
 ### Code-Canvas *(In Progress)*  
