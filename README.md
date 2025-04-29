@@ -194,14 +194,12 @@ Live-coding studio with real-time collaboration in 12+ languages.
 </details>
 
 ## 📫 Connect with Me
----
 <p align="center">
   <a href="https://github.com/DOodle25"   target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"           alt="GitHub"    height="30" /></a>
   <a href="https://www.linkedin.com/in/dipen-patel-792296260/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="LinkedIn"  height="30" /></a>
   <a href="https://leetcode.com/DIPEN125/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"                   alt="LeetCode"  height="30" /></a>
 </p>
 
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
