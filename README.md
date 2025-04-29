@@ -1,162 +1,113 @@
-### 🐉 **Welcome to the Realm of Dipen Patel, Master of the Codecraft!** 🚀 
-[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft)
+# 🐉 Dipen Patel - Master of the Codecraft 🚀 
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=17qtNnhWm3CC3_0xxX8U8Ew1zj088J9ft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dipen-patel-792296260/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/DIPEN125/)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Wizard">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Contributor;AI%2FML+Enthusiast;Systems+Designer;Digital+Artist" alt="Typing SVG">
 </div>
 
 ---
 
-## 🏰 **Citadel of the Digital Mage**
+## 🧙‍♂️ Arcane Arsenal ✨
 
-<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Magic Code">
-  </div>
-  <div style="flex: 2;">
-    <p>Hail! I'm <b>Dipen Patel</b>, a full-stack sorcerer conjuring digital solutions from India. With my staff of <b>Python</b> and shield of <b>React</b>, I battle bugs and summon scalable architectures.</p>
-    <p>🔭 Currently enchanting at <b>Gauraj InfoTech</b><br>
-    🎓 Pursuing B.Tech at <b>Parul University</b> (3.46/4.0 GPA)<br>
-    � Exorcised <b>150+ LeetCode</b> demons<br>
-    🏆 <b>GATE 2024</b> Champion (AIR 8129)</p>
-  </div>
+### 🔮 Languages & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white">
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white">
 </div>
 
 ---
 
-## 🧙‍♂️ **Arcane Arsenal** ✨
+## ⚔️ Epic Quests (Professional Experience)
 
-<div style="display: flex; gap: 20px; margin: 20px 0; align-items: center;">
-  <div style="flex: 2;">
-    <h3>🛠️ Tech Stack</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    </div>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Tech Stack">
-  </div>
-</div>
+### 🏰 Software Developer Intern @ Gauraj InfoTech (Dec 2024-Present)
+- Architected CRM system with 3-layer authentication handling 4000+ transactions
+- Engineered real-time communication system using Socket.io
+- Integrated Stripe payment gateway with advanced data grid functionalities
+
+### 🏛️ Software Developer Intern @ ByteXL (May-July 2024)
+- Contributed to 7+ Azure-deployed projects in Agile environment
+- Implemented AI-driven solutions in full-stack applications
+- Managed complete SDLC using GitHub and Azure DevOps
 
 ---
 
-## ⚔️ **Epic Quests** (Professional Experience)
+## 🏆 Legendary Artifacts (Projects)
 
-<div style="display: flex; gap: 20px; margin: 20px 0; align-items: center;">
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/3ohzdUi5U3g7ceBl8Q/giphy.gif" width="300" alt="Teamwork">
-  </div>
-  <div style="flex: 2;">
-    <h3>🧑💻 Gauraj InfoTech (Dec 2024-Present)</h3>
-    <ul>
-      <li>Architected CRM system with 3-layer authentication</li>
-      <li>Summoned real-time comms with Socket.io</li>
-      <li>Integrated Stripe payment gateways</li>
-      <li>Crafted 40+ backend spells & 50+ API incantations</li>
-    </ul>
-  </div>
-</div>
+### 🌐 Star One CRM System
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Azure-blue)](https://star-one-crm.alynor.wiki)
 
-<div style="display: flex; gap: 20px; margin: 20px 0; align-items: center;">
-  <div style="flex: 2;">
-    <h3>👾 ByteXL (May-July 2024)</h3>
-    <ul>
-      <li>Led 6-member fellowship on Code Canvas project</li>
-      <li>Deployed 7+ Azure artifacts</li>
-      <li>Mastered full-stack alchemy</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding">
-  </div>
-</div>
+https://github.com/user-attachments/assets/62ae9754-7b7e-4bd3-9943-1dc9323e78f3
 
----
+- MERN stack CRM with role-based access control
+- Real-time messaging & task management system
+- Stripe integration with advanced analytics dashboard
 
-## 🏆 **Legendary Artifacts** (Projects)
+### 🗺️ District Integrated Dashboard
+[![Frontend](https://img.shields.io/badge/Frontend-Azure-green)](https://district-integrated-dashboard.alynor.wiki)
 
-<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" alt="CRM">
-  </div>
-  <div style="flex: 2;">
-    <h3>Star One CRM</h3>
-    <p>Three-layer authentication • 200+ deployments<br>
-    <b>Frontend:</b> <a href="https://polite-field-09918cc00.4.azurestaticapps.net">Live Demo</a><br>
-    <b>Backend:</b> <a href="http://internship-fta5hkg7e8eaecf7.westindia-01.azurewebsites.net">Admin Portal</a></p>
-  </div>
-</div>
+https://github.com/user-attachments/assets/9fae86b1-4110-4378-adb6-1ea624ae4321
 
-<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
-  <div style="flex: 2;">
-    <h3>District Integrated Dashboard</h3>
-    <p>Government data visualization • 13,850+ logs handled<br>
-    <b>Frontend:</b> <a href="https://ambitious-bush-0645df200.5.azurestaticapps.net/">Live Dashboard</a><br>
-    <b>Tech:</b> Django • Chart.js • Azure</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/l0HU7JI5IPK2qWRYQ/giphy.gif" width="300" alt="Dashboard">
-  </div>
-</div>
+- Government initiative tracking system
+- Chart.js data visualization & geospatial mapping
+- Handled 13,850+ logs under high traffic loads
+
+### 🤝 SyncUP Collaboration Platform
+
+https://github.com/user-attachments/assets/cbae31ec-52e6-4481-ade7-a84e861910a1
+
+- Real-time message synchronization system
+- OTP-based authentication with Nodemailer
+- Channel management with thread-based messaging
+
+### 🎨 Code Canvas (WIP)
+[![Prototype](https://img.shields.io/badge/Prototype-HTML-orange)](Project-CodeCanvas-Login-Signup/Code-Canvas-Landing-Page.html)
+- Live coding collaboration environment
+- Component library across 12+ languages
+- Secure authentication with Passport.js
 
 ---
 
-## 📜 **Ancient Scrolls** (Certifications)
+## 📜 Ancient Tomes (Education)
+### 🏛️ Parul University (2021-2025)
+- B.Tech Computer Science (GPA: 3.46/4.0)
+- Specializations: Azure Cloud, DSA, OS
 
-<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300" alt="Certifications">
-  </div>
-  <div style="flex: 2;">
-    <ul>
-      <li>🏅 NPTEL Software Engineering (Elite)</li>
-      <li>🥈 NPTEL Data Analytics (Silver + Elite)</li>
-      <li>🛡️ CISCO Cybersecurity Initiate</li>
-      <li>🎓 Harvard CS50 & CS50 Web Veteran</li>
-    </ul>
-  </div>
-</div>
+### 🏆 Certified Wizardry
+- Harvard CS50 & CS50 Web
+- NPTEL Software Engineering (Elite)
+- Cisco Cybersecurity Specialist
 
 ---
 
-## 📧 **Summoning Circle**
-
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <a href="https://github.com/DOodle25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/dipen-patel-792296260/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/DIPEN125/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  <a href="mailto:pdipen135@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
-<div align="center" style="margin: 40px 0;">
-  <img src="https://media.giphy.com/media/3o7aD2X9HxhzNfEEyI/giphy.gif" width="300" alt="Magic">
-</div>
-
----
-
-## 📊 **Battle Statistics**
-
-![Profile Views](https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat)
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+## 📊 Battle Statistics
+<div align="center">
   <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOodle25">
-  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOodle25">
+  <img height="158" src="https://github-readme-streak-stats.herokuapp.com/?user=DOodle25">
   <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DOodle25">
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <i>"It's not a bug - it's an undocumented feature!" 😅</i>
+---
+
+## 📡 Summoning Circle
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/DOodle25)
+[![Website](https://img.shields.io/badge/Portfolio-Azure-blue?style=for-the-badge&logo=azure-devops)](https://azure-portfolio.alynor.wiki)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pdipen135@gmail.com)
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=DOodle25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
